@@ -16,13 +16,19 @@
 
 ### 2.2.1. Instrucciones
 
--   [ ] Pedir el nombre del cliente
--   [ ] Verificar si es un cliente nuevo o antiguo
--   [ ] Darle la bienvenida de acuerdo a la situación del cliente.
--   [ ] Solicitar al cliente que ingrese el monto total de su compra.
--   [ ] Preguntar al cliente si tiene algún código de descuento. Si tiene algún código, pedirle que ingrese dicho código. Si es válido, aplicar el descuento correspondiente al monto total de la compra.
--   [ ] Calcular el IGV al monto restante
--   [ ] Mostrar al usuario el monto original de la compra, el descuento aplicado, el IGV añadido, y el monto final.
+**1)** Pedir el nombre del cliente.
+
+**2)** Verificar si es un cliente nuevo o antiguo.
+
+**3)** Darle la bienvenida de acuerdo a la situación del cliente.
+
+**4)** Solicitar al cliente que ingrese el monto total de su compra.
+
+**5)** Preguntar al cliente si tiene algún código de descuento. Si tiene algún código, pedirle que ingrese dicho código. Si es válido, aplicar el descuento correspondiente al monto total de la compra.
+
+**6)** Calcular el IGV al monto restante.
+
+**7)** Mostrar al usuario el monto original de la compra, el descuento aplicado, el IGV añadido, y el monto final.
 
 ### 2.2.2. Requisitos
 

@@ -18,11 +18,15 @@
 
 ### 1.2.1. Instrucciones
 
--   [ ] Solicitar al usuario que ingrese su nombre. 
--   [ ] Saludar al usuario y mostrar un mensaje de bienvenida.
--   [ ] Solicitar al usuario que ingrese el valor de la temperatura en celsius.
--   [ ] Realizar la conversión a Fahrenheit y Kelvin utilizando el módulo math de Python para los cálculos.
--   [ ] Mostrar el resultado de la conversión en un mensaje amigable.
+**1)** Solicitar al usuario que ingrese su nombre.
+
+**2)** Saludar al usuario y mostrar un mensaje de bienvenida.
+
+**3)** Solicitar al usuario que ingrese el valor de la temperatura en celsius.
+
+**4)** Realizar la conversión a Fahrenheit y Kelvin utilizando el módulo math de Python para los cálculos.
+
+**5)** Mostrar el resultado de la conversión en un mensaje amigable.
 
 ### 1.2.2. Requisitos
 
