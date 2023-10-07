@@ -1,0 +1,50 @@
+# 6. Excepciones
+
+## 6.1. Subtemas aplicados
+
+- Tipos
+- Else y finally
+- Invocación de excepciones
+- Excepciones personalizadas
+
+## 6.2. Ejercicio
+
+| Registro de Estudiantes |
+| ------------ |
+| Desarrollar un programa para gestionar un registro de estudiantes en una escuela. El programa permitirá a los usuarios agregar estudiantes, consultar información sobre estudiantes existentes y realizar operaciones personalizadas. | 
+
+### 6.2.1. Instrucciones
+
+**1)** Crea una clase llamada **Estudiante** con las siguientes propiedades
+- *nombre* (cadena): El nombre del estudiante.
+- *edad* (entero): La edad del estudiante.
+- *calificaciones* (lista de enteros): Una lista de calificaciones del estudiante.
+
+**2)** Implementa un constructor en la clase **Estudiante** que acepte el *nombre*, la *edad* y una *lista de calificaciones* como parámetros e inicialice las propiedades correspondientes.
+
+**3)** Define un método llamado ***promedio_calificaciones*** en la clase **Estudiante** que calcule y devuelva el promedio de las calificaciones del estudiante. Asegúrate de manejar excepciones si la lista de calificaciones está vacía.
+
+**4)** Crea una función llamada ***registrar_estudiante*** que permita al usuario ingresar información sobre un nuevo estudiante (*nombre*, *edad* y *calificaciones*). Utiliza un bucle para asegurarte de que el usuario ingrese datos válidos y maneja excepciones si los datos no son válidos (por ejemplo, edad no numérica o calificaciones no numéricas). Almacena el estudiante en una lista de estudiantes.
+
+**5)** Implementa un método **______str______** en la clase **Estudiante** para mostrar la información del estudiante de manera legible.
+
+**6)** Define una excepción personalizada llamada **EdadInvalidaError** que se genere cuando se ingresa una edad no numérica al registrar un estudiante. Esta excepción debe heredar de la clase **Exception**.
+
+**7)** En la función ***registrar_estudiante***, utiliza un bloque **try** para manejar las excepciones de **EdadInvalidaError**. Si se genera esta excepción, muestra un mensaje de error adecuado al usuario.
+
+**8)** Agrega otra excepción personalizada llamada **CalificacionesInvalidasError** que se genere cuando se ingresan calificaciones no numéricas al registrar un estudiante. Esta excepción también debe heredar de la clase **Exception**.
+
+**9)** En la función ***registrar_estudiante***, utiliza otro bloque **try** para manejar las excepciones de **CalificacionesInvalidasError**. Si se genera esta excepción, muestra un mensaje de error adecuado al usuario.
+
+**10)** Crea una función principal que permita al usuario realizar las siguientes operaciones:
+- Registrar un nuevo estudiante.
+- Consultar el promedio de calificaciones de un estudiante.
+- Salir del programa.
+
+**11)** Utiliza el bloque **try ... except** en la función principal para manejar excepciones generales, como errores de entrada o acceso a estudiantes que no existen en el registro.
+
+**12)** Asegurarse de que el programa tenga un bloque **finally** que se ejecute al salir del programa y muestre un mensaje de despedida.
+
+## 6.3. Solución del ejercicio
+
+    # Comming soon
