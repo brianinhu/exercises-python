@@ -1,10 +1,36 @@
-# Guía de ejercicios por niveles para Python
+# Guía de Ejercicios por Niveles para Python 🐍
 
-Hola! Este es un repositorio donde encontrarás ejercicios por niveles para practicar o recordar conceptos y temas de Python.
-Está estructurado por niveles para principiantes (Begginer), intermedios (Intermediate) o avanzados (Avanced).
+¡Bienvenido a la Guía de Ejercicios por Niveles para Python! Este repositorio está diseñado para ayudarte a mejorar tus habilidades de programación en Python, ya seas un principiante, un programador intermedio o un experto en Python. Nuestra misión es proporcionarte una variedad de ejercicios desafiantes y divertidos para que puedas practicar y mejorar tus habilidades de programación.
 
----
+## 📂 Estructura del Repositorio
 
-Por el momento, el proyecto se encuentra en construcción. Para cualquier aporte, error o sugerencia, puede realizar un problema (issues) o un fork (pull request).
+El repositorio está organizado por niveles:
 
-Que tengas buen día! 🤙
+- **Nivel Principiante (Beginner)**: Si eres nuevo en Python o simplemente deseas repasar conceptos básicos, este nivel es para ti. Aquí encontrarás ejercicios que te ayudarán a construir una base sólida en Python.
+
+- **Nivel Intermedio (Intermediate)**: Para aquellos que ya tienen experiencia con Python y desean llevar sus habilidades al siguiente nivel. Estos ejercicios te desafiarán un poco más y te ayudarán a profundizar en conceptos intermedios.
+
+- **Nivel Avanzado (Advanced)**: Si eres un experto en Python en busca de desafíos sofisticados, nuestro nivel avanzado te ofrecerá ejercicios que te pondrán a prueba y te ayudarán a pulir tus habilidades.
+
+## 🚀 Contribuciones
+
+Este proyecto está en constante desarrollo, y tu contribución es bienvenida. Si encuentras errores, deseas agregar nuevos ejercicios o mejorar los existentes, te animamos a que contribuyas de las siguientes maneras:
+
+- Abre un **issue**: Si encuentras algún problema o tienes una sugerencia, por favor, abre un issue. Estaremos encantados de discutir y abordar tus comentarios.
+
+- Realiza un **fork**: Si deseas contribuir directamente, realiza un fork del repositorio, trabaja en tus cambios y envía un pull request. Estudiaremos tus contribuciones y las incorporaremos si son apropiadas.
+
+## 🤔 ¿Tienes preguntas?
+
+Si tienes alguna pregunta sobre cómo usar este repositorio o necesitas ayuda con algún ejercicio en particular, no dudes en abrir un issue o ponerte en contacto con nosotros a través de brianincah10@gmail.com.
+
+¡Esperamos que esta guía te ayude a mejorar tus habilidades de programación en Python y que te diviertas resolviendo los ejercicios! ¡Que tengas un gran día y feliz programación! 🤙
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=brianinhu/exercises-python&type=Date)](https://star-history.com/#brianinhu/exercises-python&Date)
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/brianinhu/exercises-python.svg)](https://starchart.cc/brianinhu/exercises-python)
