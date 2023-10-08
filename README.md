@@ -24,7 +24,7 @@ Este proyecto está en constante desarrollo, y tu contribución es bienvenida. S
 
 Si tienes alguna pregunta sobre cómo usar este repositorio o necesitas ayuda con algún ejercicio en particular, no dudes en abrir un issue o ponerte en contacto con nosotros a través de brianincah10@gmail.com.
 
-¡Esperamos que esta guía te ayude a mejorar tus habilidades de programación en Python y que te diviertas resolviendo los ejercicios! ¡Que tengas un gran día y feliz programación! 🤙
+¡Esperamos que esta guía te ayude a mejorar tus habilidades de programación en Python y que te diviertas resolviendo los ejercicios! 🤙
 
 ## Star History
 
