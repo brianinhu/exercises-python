@@ -30,7 +30,6 @@ Si tienes alguna pregunta sobre cómo usar este repositorio o necesitas ayuda co
 
 [![Star History Chart](https://api.star-history.com/svg?repos=brianinhu/exercises-python&type=Date)](https://star-history.com/#brianinhu/exercises-python&Date)
 
-
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/brianinhu/exercises-python.svg)](https://starchart.cc/brianinhu/exercises-python)
