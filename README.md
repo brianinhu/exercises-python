@@ -1,7 +1,7 @@
 # Guía de ejercicios por niveles para Python
 
 Hola! Este es un repositorio donde encontrarás ejercicios por niveles para practicar o recordar conceptos y temas de Python.
-Está estructurado por niveles para principiantes, intermedios o avanzados.
+Está estructurado por niveles para principiantes (Begginer), intermedios (Intermediate) o avanzados (Avanced).
 
 ---
 
