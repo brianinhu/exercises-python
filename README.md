@@ -1,6 +1,6 @@
 # Guía de Ejercicios por Niveles para Python 🐍
 
-¡Bienvenido a la Guía de Ejercicios por Niveles para Python! Este repositorio está diseñado para ayudarte a mejorar tus habilidades de programación en Python, ya seas un principiante, un programador intermedio o un experto en Python. Nuestra misión es proporcionarte una variedad de ejercicios desafiantes y divertidos para que puedas practicar y mejorar tus habilidades de programación.
+¡Bienvenido! Este repositorio está diseñado para ayudarte a mejorar tus habilidades de programación en Python, ya seas un principiante, un programador intermedio o un experto en Python. Nuestra misión es proporcionarte una variedad de ejercicios desafiantes y divertidos para que puedas practicar y mejorar tus habilidades de programación.
 
 ## 📂 Estructura del Repositorio
 
@@ -20,11 +20,11 @@ Este proyecto está en constante desarrollo, y tu contribución es bienvenida. S
 
 - Realiza un **fork**: Si deseas contribuir directamente, realiza un fork del repositorio, trabaja en tus cambios y envía un pull request. Estudiaremos tus contribuciones y las incorporaremos si son apropiadas.
 
-## 🤔 ¿Tienes preguntas?
+--- 
 
-Si tienes alguna pregunta sobre cómo usar este repositorio o necesitas ayuda con algún ejercicio en particular, no dudes en abrir un issue o ponerte en contacto con nosotros a través de brianincah10@gmail.com.
+Si te resultó útil el repositorio, no olvides de darnos una estrella ⭐
 
-¡Esperamos que esta guía te ayude a mejorar tus habilidades de programación en Python y que te diviertas resolviendo los ejercicios! 🤙
+¡Esperamos que esta guía te ayude a mejorar tus habilidades de programación en Python y que te diviertas resolviendo los ejercicios!
 
 ## 🌟 Stargazers
 
