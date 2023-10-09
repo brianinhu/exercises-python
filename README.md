@@ -26,10 +26,6 @@ Si tienes alguna pregunta sobre cómo usar este repositorio o necesitas ayuda co
 
 ¡Esperamos que esta guía te ayude a mejorar tus habilidades de programación en Python y que te diviertas resolviendo los ejercicios! 🤙
 
-## Stargazers
+## 🌟 Stargazers
 
 [![Stargazers repo roster for @brianinhu/exercises-python](https://reporoster.com/stars/brianinhu/exercises-python)](https://github.com/brianinhu/exercises-python/stargazers)
-
-## Forkers
-
-[![Forkers repo roster for @brianinhu/exercises-python](https://reporoster.com/forks/brianinhu/exercises-python)](https://github.com/brianinhu/exercises-python/network/members)
