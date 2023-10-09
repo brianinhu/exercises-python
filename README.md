@@ -26,10 +26,10 @@ Si tienes alguna pregunta sobre cómo usar este repositorio o necesitas ayuda co
 
 ¡Esperamos que esta guía te ayude a mejorar tus habilidades de programación en Python y que te diviertas resolviendo los ejercicios! 🤙
 
-## Star History
+## Stargazers
 
-[![Star History Chart](https://api.star-history.com/svg?repos=brianinhu/exercises-python&type=Date)](https://star-history.com/#brianinhu/exercises-python&Date)
+[![Stargazers repo roster for @brianinhu/exercises-python](https://reporoster.com/stars/brianinhu/exercises-python)](https://github.com/brianinhu/exercises-python/stargazers)
 
-## Stargazers over time
+## Forkers
 
-[![Stargazers over time](https://starchart.cc/brianinhu/exercises-python.svg)](https://starchart.cc/brianinhu/exercises-python)
+[![Forkers repo roster for @brianinhu/exercises-python](https://reporoster.com/forks/brianinhu/exercises-python)](https://github.com/brianinhu/exercises-python/network/members)
