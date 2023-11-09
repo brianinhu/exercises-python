@@ -26,4 +26,4 @@ Si te resultó útil el repositorio, no olvides de darle una estrella ⭐
 
 ## 🌟 Stargazers
 
-[![Stargazers repo roster for @brianinhu/exercises-python](https://reporoster.com/stars/brianinhu/exercises-python)](https://github.com/brianinhu/exercises-python/stargazers)
+[![Stargazers repo roster for @brianinhu/exercises-python](https://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=brianinhu&repo=exercises-python)](https://github.com/brianinhu/exercises-python/stargazers)
